@@ -1,0 +1,22 @@
+.frstSlider{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.527)), url(../../Resorces/slider1.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+.secondSlider{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.527)), url(../../Resorces/679880-electronics-thinkstock-050818.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
+
+.thirdSlider{
+    background-image:linear-gradient(rgba(0, 0, 0, 0.637), rgba(0, 0, 0, 0.527)), url(../../Resorces/80246925_1000.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 90vh;
+}
