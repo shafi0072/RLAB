@@ -5,7 +5,7 @@ const Navbar = () => {
         <div>
             <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#"><img style={{width:'10%'}} src={logo} alt="" /></a>
+                    <a class="navbar-brand" href="#"><img style={{width:'10%'}} src={logo} alt=""/></a>
                     <button
                         class="navbar-toggler"
                         type="button"
